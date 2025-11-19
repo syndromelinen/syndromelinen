@@ -24,7 +24,7 @@ Currently grinding my way through:
 
 ### ⚙️ Languages I Command
 
-txt
+
 C++ • Python • Bash • JavaScript • Assembly
 
 
@@ -37,7 +37,7 @@ Metasploit • John the Ripper • Nessus • BloodHound
 
 ### 🛠️ Environments
 
-txt
+
 Kali Linux GUI (VirtualBox)
 Windows 10 Pro (Main System)
 Obsidian + Custom HTB Notes Vault
