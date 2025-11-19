@@ -30,7 +30,7 @@ C++ • Python • Bash • JavaScript • Assembly
 
 ### 🛰️ Tools I Wield
 
-txt
+
 Kali Linux • Burp Suite • Nmap • Wireshark • Gobuster
 Metasploit • John the Ripper • Nessus • BloodHound
 
