@@ -11,11 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#161616,#444444,#777777,#aaaaaa,#ffffff
+
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
