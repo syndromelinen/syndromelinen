@@ -16,7 +16,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#161616,#444444,#777777,#aaaaaa,#ffffff
-      - uses: crazy-max/github-pages-deploy-action@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
