@@ -30,8 +30,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syndromelinen&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9a9a9a&icon_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syndromelinen&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9a9a9a" />
+  <img src="assets/focus.svg" alt="attack flow" width="100%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/syndromelinen/syndromelinen/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
